@@ -9,7 +9,7 @@ Read big excel and insert into Oracle database fast!
 
 ```
 public static final String ORACLE_DRIVER = "oracle.jdbc.driver.OracleDriver";
-public static final String ORACLE_JDBCURL = "jdbc:oracle:thin:@127.0.0.1:1521:qdjf";
+public static final String ORACLE_JDBCURL = "jdbc:oracle:thin:@127.0.0.1:1521:database";
 public static final String ORACLE_USER = "username"; //Oracle数据库用户名
 public static final String ORACLE_PASSWORD = "password"; //Oracle数据库密码
 ```
